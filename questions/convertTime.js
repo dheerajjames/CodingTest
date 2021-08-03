@@ -6,6 +6,8 @@
  The value corresponding to each key should be the conversion of seconds into correponding 
  time 
  */
-const convertTime = (seconds) => {};
+const convertTime = (seconds) => {
+    
+};
 
 module.exports = convertTime;
