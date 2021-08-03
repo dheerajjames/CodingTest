@@ -37,7 +37,16 @@
 // new Error("Invalid Input")
 
 const getObjectStructure = (obj) => {
-  // write code here
+//  if (!Object.keys(obj).length) {
+//    return obj;
+//  }
+//  Object.keys(obj).forEach((key) => {
+//    console.log(typeof obj[key]);
+//    let newObj = {
+//     //  obj[key] : typeof obj[key],
+//    }
+//  })
+
 };
 
 // donot remove this line
