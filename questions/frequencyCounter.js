@@ -14,7 +14,6 @@ const frequencyCounter = (str) => {
    let countA=0, countE=0, countI=0, countO=0, countU = 0;
    let strArr = strLower.split("");
    strArr.forEach((letter) => {
-
       switch (letter) {
          case 'a':
             countA ++;
